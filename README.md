@@ -1,12 +1,13 @@
 
-# Module 2 Final Project
+# Real Estate Prices in King County, WA
 
 
-## Table of Content
+## Table of Contents
 
 1. List of files in repository
 2. Business Case
-3. Conclusions
+3. Data Visualizations
+4. Conclusions
 
 
 ## Files in repository  
